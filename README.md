@@ -1,1 +1,2 @@
-"Jack Butler" 
+Jack Butler
+butljack@oregonstate.edu
